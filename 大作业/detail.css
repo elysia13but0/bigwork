@@ -1,0 +1,33 @@
+.wrap{
+    width:1210px;
+    margin: 0 auto;
+}
+
+.product-intro{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.preview-wrap{
+    width: 352px;
+    height: 500px;
+    background-color:palegoldenrod;
+    padding-bottom: 15px;
+    float: left;
+}
+
+.itemInfo-wrap{
+    width: 590px;
+    height: 800px;
+    margin-left: 30px;
+    margin-right: 24px;
+    background-color: paleturquoise;
+    float: left;
+}
+
+.track{
+    width: 210px;
+    height: 600px;
+    background-color: pink;
+    float: left;
+}
